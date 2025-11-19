@@ -19,9 +19,10 @@ Students are going to tell you how to create a brand-new web site with GitHub Pa
 
 ### Steps to eventually follow
 
+**[Instructor example link](https://github.com/QILINXIE02/reading-notes-example-2025)**
+
 1. You'll need to be signed into GitHub
 1. Create a new repo, named `reading-notes`
-    - If you already have something there, move it, or use a burner account.
 1. Include a README when making the repo
 1. Publish with GH pages
    1. NOTE: Change branch from `None` to `main`
