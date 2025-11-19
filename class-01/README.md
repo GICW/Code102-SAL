@@ -26,7 +26,6 @@ See class slides and assignments for details.
 - Proficiencies
 - Canvas
 - GitHub
-- Slack
 - Growth mindset
 - Fixed mindset
 - Repository
