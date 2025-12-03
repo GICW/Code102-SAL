@@ -8,3 +8,5 @@ A growth mindset means believing your abilities can improve through effort and l
 1. Embrace challenges
 2. Learn from mistakes
 3. Keep practicing consistently
+
+Hello, it is December!
